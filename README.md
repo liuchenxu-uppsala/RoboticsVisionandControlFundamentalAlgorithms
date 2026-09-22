@@ -2,6 +2,13 @@
 
 跟随 Peter Corke 《Robotics, Vision and Control: Fundamental Algorithms in Python》(第三版)一书,进行的学习练习代码,配合 WARA Robotics Challenge 项目的准备工作。
 
+## 复习笔记
+
+- [第2章复习:Representing Position and Orientation](./chapter2_pose/chapter2_review.md)
+- [第7章复习:Robot Arm Kinematics](./chapter7_kinematics/chapter7_review.md)
+
+（后续章节继续在这里追加链接）
+
 ## 目录结构
 
 - `chapter2_pose/` — 第2章:位置与姿态表示(坐标变换、旋转矩阵、四元数、旋量等)
