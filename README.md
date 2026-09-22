@@ -5,6 +5,7 @@
 ## 复习笔记
 
 - [第2章复习:Representing Position and Orientation](./chapter2_pose/chapter2_review.md)
+- [第3章复习:Time and Motion](./chapter3_time_and_motion/chapter3_review.md)
 - [第7章复习:Robot Arm Kinematics](./chapter7_kinematics/chapter7_review.md)
 
 （后续章节继续在这里追加链接）
