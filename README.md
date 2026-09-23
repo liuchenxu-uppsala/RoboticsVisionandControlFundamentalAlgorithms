@@ -13,6 +13,7 @@
 ## 目录结构
 
 - `chapter2_pose/` — 第2章:位置与姿态表示(坐标变换、旋转矩阵、四元数、旋量等)
+- `chapter3_time_and_motion/` — 第3章:时间与运动(位姿的导数、空间速度、轨迹生成quintic/trapezoidal/mstraj、姿态插值)
 - `chapter7_kinematics/` — 第7章:机械臂运动学(D-H参数、正/逆运动学、轨迹生成、碰撞检测等)
 
 ## 环境
