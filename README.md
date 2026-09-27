@@ -8,6 +8,7 @@
 - [第3章复习:Time and Motion](./chapter3_time_and_motion/chapter3_review.md)
 - [第4章复习:Mobile Robot Vehicles](./chapter4_mobile_robots/chapter4_review.md)
 - [第5章复习:Navigation](./chapter5_navigation/chapter5_review.md)
+- [第6章复习:Localization and Mapping](./chapter6/chapter6_review.md)
 - [第7章复习:Robot Arm Kinematics](./chapter7_kinematics/chapter7_review.md)
 
 （后续章节继续在这里追加链接）
@@ -18,6 +19,7 @@
 - `chapter3_time_and_motion/` — 第3章:时间与运动(位姿的导数、空间速度、轨迹生成quintic/trapezoidal/mstraj、姿态插值)
 - `chapter4_mobile_robots/` — 第4章:移动机器人车辆(汽车/自行车模型、差速驱动/独轮车模型、全向轮/麦克纳姆轮)
 - `chapter5_navigation/` — 第5章:导航(反应式导航/Bug2、图搜索BFS-UCS-A\*、占据栅格规划Distance Transform/D\*、概率路图PRM、可行驶路径规划Dubins/Reeds-Shepp/Lattice/RRT)
+- `chapter6/` — 第6章:定位与建图(EKF航位推算/路标定位/建图/SLAM、Pose-Graph SLAM、粒子滤波定位、Rao-Blackwellized SLAM;6.8 Lidar应用与6.9总结未学)
 - `chapter7_kinematics/` — 第7章:机械臂运动学(D-H参数、正/逆运动学、轨迹生成、碰撞检测等)
 
 ## 环境
